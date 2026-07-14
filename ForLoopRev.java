@@ -27,16 +27,3 @@ public class ForLoopRev {
         System.out.println(item);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-    }
-}
